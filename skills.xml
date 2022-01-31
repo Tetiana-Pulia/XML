@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<CAT>
+	<Postman>Sending requests, creating collections</POSTMAN>
+	<Terminal>Usage of the following commands: create a folder, change folder, create a file, move and copy file, list the files in a directory, read the beginning or the ending of the file</TERMINAL>
+	<SQL>SELECT, JOIN, UPDATE, DELETE, UNION. Using My SQL Workbench and Dbeaver</SQL>
+	<GIT>Usage of the following commands: git add, git commit –m, git push, git pull, git status, git fetch, git merge, git checkout</GIT>
+	<CHROME DEVTOOLS>Performance testing (Lightroom), checking adaptive and responsive design, changing GPS location, changing user agent</CHROME DEVTOOLS>
+	<ANDROID STUDIO>Run an emulator and build apk file"</ANDROID STUDIO>
+	<ADB>Show devices list, installing apk file from computer on the mobile device, finding and saving logs of an app</ADB>
+</CAT>
