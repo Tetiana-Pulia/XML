@@ -1,1 +1,12 @@
-
+<?xml version="1.0"?>
+<CAT>
+    <ID>unique number of the bug report</ID>
+    <SUMMARY>one sentence describing bug in accordance with the formula what?where?when?</SUMMARY>
+    <TEST ENVIRONMENT AND APPLICATION VERSION>the exact version of the application,a website version, an operating system, or a web browser name and its version, screen size"</TEST ENVIRONMENT AND APPLICATION VERSION>
+    <STR>description, with as much detail as possible, the steps you took before you encountered the bug</STR>
+    <ACTUAL RESULT>what happens when a tester reproduces a bug</ACTUAL RESULT>
+    <EXPECTED RESULT>what we predicted as normal functionality under the given conditions</EXPECTED RESULT>
+    <BUG SEVERITY>estimation of the impact of the bug on the application. Includes blocker,critical, major, minor, trivial defects</BUG SEVERITY>
+    <BUG PRIORITY>project managers usually set a priority. It’s showing to the developer how soon it has to be fixed.Priority is generally set from 1 to 5. The lower the number, the higher priority. 1 score – must be fixed as soon as possible. 5 score – can fix when time permits</BUG PRIORITY>
+    <ATTACHMENTS>any relevant additional documentation</ATTACHMENTS>
+</CAT>
